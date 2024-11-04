@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://brockhouston1.github.io/oversharedblog/"
 title = "Overshared"
 theme = "hugo-theme-console"
 languageCode = "en-us"
