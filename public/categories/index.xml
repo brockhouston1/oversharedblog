@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Overshared</title>
-    <link>https://brockhouston1.github.io/oversharedblog/categories/</link>
+    <link>http://localhost:1313/oversharedblog/categories/</link>
     <description>Recent content in Categories on Overshared</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://brockhouston1.github.io/oversharedblog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/oversharedblog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

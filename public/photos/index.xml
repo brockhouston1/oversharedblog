@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos on Overshared</title>
-    <link>https://brockhouston1.github.io/oversharedblog/photos/</link>
+    <link>http://localhost:1313/oversharedblog/photos/</link>
     <description>Recent content in Photos on Overshared</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://brockhouston1.github.io/oversharedblog/photos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/oversharedblog/photos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arizona, US</title>
-      <link>https://brockhouston1.github.io/oversharedblog/photos/arizona-us/</link>
+      <link>http://localhost:1313/oversharedblog/photos/arizona-us/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://brockhouston1.github.io/oversharedblog/photos/arizona-us/</guid>
+      <guid>http://localhost:1313/oversharedblog/photos/arizona-us/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/w/index.php?title=Grand_Canyon&amp;amp;oldid=952699432&#34;&gt;Grand Canyon&lt;/a&gt;&#xA;is a steep-sided canyon carved by the Colorado River in Arizona, United States.&#xA;The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).&lt;/p&gt;</description>
     </item>
   </channel>
