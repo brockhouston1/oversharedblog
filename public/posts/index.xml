@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Overshared</title>
-    <link>http://localhost:1313/oversharedblog/posts/</link>
+    <link>https://brockhouston1.github.io/oversharedblog/posts/</link>
     <description>Recent content in Posts on Overshared</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/oversharedblog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brockhouston1.github.io/oversharedblog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ted Lasso Leadership</title>
-      <link>http://localhost:1313/oversharedblog/posts/november2024/tedlasso/</link>
+      <link>https://brockhouston1.github.io/oversharedblog/posts/november2024/tedlasso/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/oversharedblog/posts/november2024/tedlasso/</guid>
+      <guid>https://brockhouston1.github.io/oversharedblog/posts/november2024/tedlasso/</guid>
       <description>&lt;p&gt;This is for my friends who i&amp;rsquo;ve told to watch Ted Lasso and still haven&amp;rsquo;t.&lt;br&gt;&#xA;Read this if you want all the banger quotes I could find and why they matter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Who Am I</title>
-      <link>http://localhost:1313/oversharedblog/posts/november2024/whoami/</link>
+      <link>https://brockhouston1.github.io/oversharedblog/posts/november2024/whoami/</link>
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/oversharedblog/posts/november2024/whoami/</guid>
+      <guid>https://brockhouston1.github.io/oversharedblog/posts/november2024/whoami/</guid>
       <description>&lt;p&gt;&lt;em&gt;For those of you who dont know me&amp;hellip; and are curious.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>

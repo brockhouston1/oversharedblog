@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos on Overshared</title>
-    <link>http://localhost:1313/oversharedblog/photos/</link>
+    <link>https://brockhouston1.github.io/oversharedblog/photos/</link>
     <description>Recent content in Photos on Overshared</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/oversharedblog/photos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brockhouston1.github.io/oversharedblog/photos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>St. George, UT</title>
-      <link>http://localhost:1313/oversharedblog/photos/november2024/</link>
+      <link>https://brockhouston1.github.io/oversharedblog/photos/november2024/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/oversharedblog/photos/november2024/</guid>
+      <guid>https://brockhouston1.github.io/oversharedblog/photos/november2024/</guid>
       <description>&lt;p&gt;Paula and I in Snow Canyon after a date to Benjas Thai Garden. There was a huge&#xA;American flag hung up across a canyon for veterans day.&lt;/p&gt;</description>
     </item>
   </channel>
