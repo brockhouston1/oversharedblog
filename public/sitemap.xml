@@ -4,55 +4,62 @@
     
         
         <url>
-            <loc>http://localhost:1313/oversharedblog/</loc>
+            <loc>https://brockhouston1.github.io/oversharedblog/</loc>
             <lastmod>2024-11-04T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/oversharedblog/posts/</loc>
+            <loc>https://brockhouston1.github.io/oversharedblog/posts/</loc>
             <lastmod>2024-11-04T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/oversharedblog/posts/november2024/</loc>
+            <loc>https://brockhouston1.github.io/oversharedblog/posts/november2024/tedlasso/</loc>
             <lastmod>2024-11-04T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/oversharedblog/photos/</loc>
+            <loc>https://brockhouston1.github.io/oversharedblog/posts/november2024/whoami/</loc>
+            <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://brockhouston1.github.io/oversharedblog/photos/</loc>
             <lastmod>2024-11-02T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/oversharedblog/photos/november2024/</loc>
+            <loc>https://brockhouston1.github.io/oversharedblog/photos/november2024/</loc>
             <lastmod>2024-11-02T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/oversharedblog/about/</loc>
+            <loc>https://brockhouston1.github.io/oversharedblog/about/</loc>
             <lastmod>2016-11-05T21:05:33+05:30</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/oversharedblog/categories/</loc>
+            <loc>https://brockhouston1.github.io/oversharedblog/categories/</loc>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/oversharedblog/tags/</loc>
+            <loc>https://brockhouston1.github.io/oversharedblog/tags/</loc>
         </url>
         
     
