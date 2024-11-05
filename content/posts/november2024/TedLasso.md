@@ -33,3 +33,5 @@ The best way to understand why Ted is so exceptional isn’t through an explanat
 - "Every day is a chance to be better than we were the day before."
 
 - "There’s two buttons I never like hittin’, and that’s panic and snooze."
+
+![Ted lasso gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmY1NDRjOWx5ajNnd2d3Y2QzbzIwMnEyOXp4cGRmdGc0ODI5OHd0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JFyH9XrzZh9pAjx1HN/giphy.gif)
